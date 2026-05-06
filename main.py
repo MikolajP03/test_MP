@@ -1,2 +1,2 @@
-print("Jasny niebieski super like button. ")
-print("smieszne kotki.")
+print("Jasny niebieski super like button")
+print("Funny cats button")
